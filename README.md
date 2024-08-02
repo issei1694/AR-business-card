@@ -37,6 +37,7 @@ Update the relevant sections with your information.
 View the AR Business Card:
 
 Open index.html in a browser.
+
 Use a webcam or smartphone camera to scan the marker/QR code.
 Technologies Used
 A-Frame: A web framework for building 3D/AR/VR experiences.
